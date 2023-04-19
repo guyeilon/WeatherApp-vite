@@ -1,0 +1,32 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "Abra",
+    "accu",
+    "ACCUWEATHER",
+    "Addresscomponent",
+    "arrowParens",
+    "commitlint",
+    "hookform",
+    "isready",
+    "Jaffo",
+    "MAPKEY",
+    "persistor",
+    "reduxjs",
+    "svgrrc",
+    "testid",
+    "toplevel",
+    "usehooks",
+    "viewports",
+    "vitejs",
+    "vitest",
+    "weatherapp"
+  ],
+  "ignoreWords": [
+    "svgr"
+  ],
+  "import": []
+}
